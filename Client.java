@@ -41,3 +41,5 @@ public class Client
 
 //Open NEW terminal.
 //java Client
+
+//SEQUENCE: INTERFACEJAVA,ADDSERVERJAVA,SERVERJAVA,CLIENTJAVA
